@@ -6,7 +6,7 @@
 - Зарегистрируйтесь в телеграм
 - Создайте своего бота и получите токен через @BotFather
 - Склонируйте этот репозиторий в текущую папку 
-    - `git clone https://github.com/kotofey97/kittybot.git`
+    - `git clone https://github.com/artemkms/kittybot.git`
 - Установите и активируйте виртуальное окружение 
     - `python -m venv venv`
     - `source venv/bin/activate`
@@ -16,8 +16,8 @@
 
 
 ### 
-Ссылка на бота http://t.me/HelloCowboybot
+Ссылка на бота http://t.me/Super_happy_assistant_Bot
 
 Задеплоен на сервере [Heroku](https://heroku.com/)
 ### Автор
-- [Логинова Ольга](https://github.com/kotofey97) 
+- [Артем П.](https://github.com/artemkms) 
